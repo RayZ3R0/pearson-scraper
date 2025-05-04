@@ -7,6 +7,7 @@ class ProgressTracker {
     this.progress = {
       completed: {},
       failed: {},
+      completedSessions: {},
       lastUpdate: null,
       stats: {
         totalSessions: 0,
@@ -14,6 +15,7 @@ class ProgressTracker {
         totalUnits: 0,
         completedUnits: 0,
         failedUnits: 0,
+        completedSessions: 0,
       },
     };
   }
@@ -26,6 +28,13 @@ class ProgressTracker {
     try {
       const data = await fs.readFile(this.filePath, "utf8");
       this.progress = JSON.parse(data);
+      // Add completedSessions object if it doesn't exist (for backward compatibility)
+      if (!this.progress.completedSessions) {
+        this.progress.completedSessions = {};
+      }
+      if (!this.progress.stats.completedSessions) {
+        this.progress.stats.completedSessions = 0;
+      }
       console.log("Progress tracker loaded successfully");
     } catch (error) {
       // If file doesn't exist or is invalid, create a new one
@@ -67,6 +76,39 @@ class ProgressTracker {
     return this.progress.completed[qualificationType][session][
       subject
     ].includes(unit);
+  }
+
+  /**
+   * Check if a session is marked as fully processed
+   * @param {string} qualificationType - The qualification type
+   * @param {string} session - The exam session
+   * @returns {boolean} - Whether the session is fully processed
+   */
+  isSessionCompleted(qualificationType, session) {
+    if (!this.progress.completedSessions[qualificationType]) {
+      return false;
+    }
+    return this.progress.completedSessions[qualificationType].includes(session);
+  }
+
+  /**
+   * Mark a session as fully completed
+   * @param {string} qualificationType - The qualification type
+   * @param {string} session - The exam session
+   */
+  markSessionAsCompleted(qualificationType, session) {
+    // Initialize qualification type array if it doesn't exist
+    this.progress.completedSessions[qualificationType] =
+      this.progress.completedSessions[qualificationType] || [];
+
+    // Add the session if not already marked as completed
+    if (!this.progress.completedSessions[qualificationType].includes(session)) {
+      this.progress.completedSessions[qualificationType].push(session);
+      this.progress.stats.completedSessions++;
+      console.log(
+        `Session ${session} for ${qualificationType} marked as fully completed`
+      );
+    }
   }
 
   /**
@@ -169,6 +211,7 @@ class ProgressTracker {
       totalUnits: stats.totalUnits,
       completedUnits: stats.completedUnits,
       failedUnits: stats.failedUnits,
+      completedSessions: stats.completedSessions || 0,
       progress:
         stats.totalUnits > 0
           ? `${Math.round((stats.completedUnits / stats.totalUnits) * 100)}%`

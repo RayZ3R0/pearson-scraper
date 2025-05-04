@@ -22,6 +22,37 @@ const BASE_URL =
 // Qualification type to scrape
 const QUALIFICATION_TYPE = "International A Level";
 
+// Array of subjects to filter for (can be modified to include only subjects you want)
+// Set to null or empty array to scrape all subjects
+const FILTER_SUBJECTS = [
+  "Physics",
+  "Chemistry",
+  "Biology",
+  "Mathematics",
+  "Further Mathematics",
+  "Pure Mathematics",
+  "Accounting",
+  "Economics",
+  "Business",
+]; // Only scrape subjects containing these strings
+
+/**
+ * Check if a subject matches our filter criteria
+ * @param {string} subject - Subject name to check
+ * @returns {boolean} - Whether the subject should be processed
+ */
+function shouldProcessSubject(subject) {
+  // If no filter is set, process all subjects
+  if (!FILTER_SUBJECTS || FILTER_SUBJECTS.length === 0) {
+    return true;
+  }
+
+  // Check if the subject contains any of our filter terms
+  return FILTER_SUBJECTS.some((filterTerm) =>
+    subject.toLowerCase().includes(filterTerm.toLowerCase())
+  );
+}
+
 /**
  * Main function to scrape all available exam sessions
  */
@@ -193,6 +224,12 @@ async function scrapeSeries() {
         `\n========== Processing exam session: ${session} ==========`
       );
 
+      // Skip sessions that are already fully completed
+      if (tracker.isSessionCompleted(QUALIFICATION_TYPE, session)) {
+        console.log(`Session ${session} is already fully processed, skipping`);
+        continue;
+      }
+
       try {
         // Navigate to the specific session
         await navigateToSession(page, session);
@@ -220,26 +257,55 @@ async function scrapeSeries() {
         });
 
         console.log(`Found ${subjects.length} subjects for ${session}`);
-        totalSubjects += subjects.length;
+
+        // Filter subjects based on our subject filter
+        const filteredSubjects = subjects.filter((subject) =>
+          shouldProcessSubject(subject)
+        );
+        console.log(`Filtered to ${filteredSubjects.length} matching subjects`);
+
+        totalSubjects += filteredSubjects.length;
 
         // Update progress tracker with the subjects count
         tracker.updateStats(validSessions.length, totalSubjects, totalUnits);
         await tracker.save();
 
+        // Track the total units and processed units for this session
+        let sessionTotalUnits = 0;
+        let sessionProcessedUnits = 0;
+
         // Process each subject
-        for (const subject of subjects) {
+        for (const subject of filteredSubjects) {
           try {
-            await processSubject(
+            const subjectResult = await processSubject(
               page,
               tracker,
               QUALIFICATION_TYPE,
               session,
               subject
             );
+
+            // Update session unit counts
+            if (subjectResult) {
+              sessionTotalUnits += subjectResult.totalUnits;
+              sessionProcessedUnits += subjectResult.processedUnits;
+            }
           } catch (subjectError) {
             console.error(`Error processing subject ${subject}:`, subjectError);
             // Continue with next subject
           }
+        }
+
+        // Check if all units in this session have been processed
+        if (
+          sessionTotalUnits > 0 &&
+          sessionProcessedUnits === sessionTotalUnits
+        ) {
+          console.log(
+            `All units for session ${session} have been processed. Marking session as complete.`
+          );
+          tracker.markSessionAsCompleted(QUALIFICATION_TYPE, session);
+          await tracker.save();
         }
       } catch (error) {
         console.error(`Error processing session ${session}:`, error);
@@ -253,12 +319,21 @@ async function scrapeSeries() {
     const summary = tracker.getSummary();
     console.log("\n========== Scraping Summary ==========");
     console.log(`Total Sessions: ${summary.totalSessions}`);
+    console.log(`Completed Sessions: ${summary.completedSessions}`);
     console.log(`Total Subjects: ${summary.totalSubjects}`);
     console.log(`Total Units: ${summary.totalUnits}`);
     console.log(`Completed Units: ${summary.completedUnits}`);
     console.log(`Failed Units: ${summary.failedUnits}`);
     console.log(`Overall Progress: ${summary.progress}`);
     console.log(`Last Update: ${summary.lastUpdate}`);
+
+    if (FILTER_SUBJECTS && FILTER_SUBJECTS.length > 0) {
+      console.log(
+        `\nNote: Only processed subjects matching: ${FILTER_SUBJECTS.join(
+          ", "
+        )}`
+      );
+    }
   } catch (error) {
     console.error("Error during scraping:", error);
     throw error;
@@ -312,8 +387,11 @@ async function processSubject(page, tracker, qualType, session, subject) {
 
     if (units.length === 0) {
       console.log("No units found for this subject, skipping");
-      return;
+      return { totalUnits: 0, processedUnits: 0 };
     }
+
+    // Track units processed for this subject
+    let processedUnits = 0;
 
     // Process each unit
     for (const unit of units) {
@@ -321,16 +399,28 @@ async function processSubject(page, tracker, qualType, session, subject) {
         // Skip if this unit has already been successfully processed
         if (tracker.isCompleted(qualType, session, subject, unit)) {
           console.log(`Unit already processed: ${unit}`);
+          processedUnits++;
           continue;
         }
 
         // Skip if this unit previously failed (to avoid repeatedly trying problematic units)
         if (tracker.hasFailed(qualType, session, subject, unit)) {
           console.log(`Unit previously failed, skipping: ${unit}`);
+          processedUnits++; // Count as processed since we're skipping it
           continue;
         }
 
-        await processUnit(page, tracker, qualType, session, subject, unit);
+        const success = await processUnit(
+          page,
+          tracker,
+          qualType,
+          session,
+          subject,
+          unit
+        );
+        if (success) {
+          processedUnits++;
+        }
       } catch (unitError) {
         console.error(`Error processing unit ${unit}:`, unitError);
         tracker.markAsFailed(
@@ -341,8 +431,12 @@ async function processSubject(page, tracker, qualType, session, subject) {
           unitError.message
         );
         await tracker.save();
+        processedUnits++; // Count as processed since we've marked it as failed
       }
     }
+
+    // Return the unit counts for this subject
+    return { totalUnits: units.length, processedUnits };
   } catch (error) {
     throw error;
   }
@@ -379,7 +473,7 @@ async function processUnit(page, tracker, qualType, session, subject, unit) {
         "No tabs section found"
       );
       await tracker.save();
-      return;
+      return false;
     }
 
     // Select the All Scores tab
@@ -402,7 +496,7 @@ async function processUnit(page, tracker, qualType, session, subject, unit) {
         "No data extracted"
       );
       await tracker.save();
-      return;
+      return false;
     }
 
     // Save the data
@@ -421,6 +515,7 @@ async function processUnit(page, tracker, qualType, session, subject, unit) {
 
     console.log(`Successfully processed unit: ${unit}`);
     await sleep(1000); // Add delay to avoid overloading server
+    return true;
   } catch (error) {
     throw error;
   }

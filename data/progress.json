@@ -1,0 +1,1316 @@
+{
+  "completed": {
+    "International A Level": {
+      "June 2019": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Applied ICT (2016)": [
+          "WIT01/01 - The Information Age",
+          "WIT02/01 - The Digital Economy",
+          "WIT03/01 - The Knowledge Worker",
+          "WIT04/01 - Using Database Software",
+          "WIT05/01 - Managing ICT Projects",
+          "WIT06/01 - Using Multimedia Software",
+          "WIT07/01 - Using Spreadsheet Software",
+          "WIT08/01 - Customising Applications"
+        ],
+        "Biology": [
+          "WBI01/01 - Lifestyle, Transport, Genes and Health",
+          "WBI02/01 - Development, Plants and the Environment",
+          "WBI03/01 - Practical Biology and Research Skills",
+          "WBI04/01 - The Natural Environment and Species Survival",
+          "WBI05/01 - Energy, Exercise and Coordination",
+          "WBI06/01 - Practical Biology and Investigative Skills"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities"
+        ],
+        "Business Studies": [
+          "WBS01/01 - Business Enterprise",
+          "WBS02/01 - Business Structures and Processes",
+          "WBS03/01 - Strategic Business Decisions",
+          "WBS04/01 - Business in a Global Context"
+        ],
+        "Chemistry": [
+          "WCH01/01 - The Core Principles of Chemistry",
+          "WCH02/01 - Application of Core Principles of Chemistry",
+          "WCH03/01 - Chemistry Laboratory Skills l Alternative",
+          "WCH04/01 - General Principles of Chemistry l  to  Rates, Equilibria and Further Organic Chemistry",
+          "WCH05/01 - General Principles of Chemistry ll  to  Transition Metals and Organic Nitrogen Chemistry",
+          "WCH06/01 - Chemistry Laboratory Skills ll Alternative"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I"
+        ],
+        "Economics": [
+          "WEC01/01 - Markets in Action",
+          "WEC02/01 - Macroeconomic Performance and Policy",
+          "WEC03/01 - Business Behaviour",
+          "WEC04/01 - Developments in the Global Economy"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy"
+        ],
+        "English Language (2015)": [
+          "WEN01/01 - Language: Context and Identity",
+          "WEN02/01 - Language in Transition",
+          "WEN03/01 - Crafting Language (Writing)",
+          "WEN04/01 - Investigating Language"
+        ],
+        "English Literature (2015)": [
+          "WET01/01 - Post-2000 Poetry and Prose",
+          "WET02/01 - Drama",
+          "WET03/01 - Poetry and Prose",
+          "WET04/01 - Shakespeare and Pre-1900 Poetry"
+        ],
+        "French (2016)": [
+          "WFR01/01 - Spoken Expression and Response",
+          "WFR02/01 - Understanding and Written Response",
+          "WFR03/01 - Understanding and Spoken Response",
+          "WFR04/01 - Research, understanding and written response"
+        ],
+        "Further Mathematics": [
+          "WDM01/01 - Decision Mathematics D1",
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Geography (2016)": [
+          "WGE01/01 - Global Challenges",
+          "WGE02/01 - Geographical Investigations",
+          "WGE03/01 - Contested Planet",
+          "WGE04/01 - Researching Geogrpahy"
+        ],
+        "Greek (2016)": [
+          "WGK01/01 - Understanding and Written Response",
+          "WGK02/01 - Writing and Research"
+        ],
+        "History (2015)": [
+          "WHI01/1A - Depth Study and Interpretations - France in Revolution, 1774 to 99 (Option 1A)",
+          "WHI01/1B - Depth Study and Interpretations - Russia in Revolution, 1881 to 1917 (Option 1B)",
+          "WHI01/1C - Depth Study and Interpretations - Germany, 1918 to 45 (Option 1C)",
+          "WHI01/1D - Depth Study and Interpretations - Britain, 1964 to 90 (Option 1D)",
+          "WHI02/1A - Breadth Study with Source Evaluation - India, 1857 to 1948: The Raj to Partition (Option 2A)",
+          "WHI02/1B - Breadth Study with Source Evaluation - China, 1900 to 76 (Option 2B)",
+          "WHI02/1C - Breadth Study with Source Evaluation - Russia, 1917 to 91: From Lenin to Yeltsin (Option 2C)",
+          "WHI02/1D - Breadth Study with Source Evaluation - South Africa, 1948 to 2014: From Apartheid State to the Death of Mandela (Option 2D)",
+          "WHI03/1A - Thematic Study with Source Evaluation - The USA, Independence to Civil War, 1763 to 1865 (Option 1A)",
+          "WHI03/1B - Thematic Study with Source Evaluation - The British Experience of Warfare, 1803 to 1945 (Option 1B)",
+          "WHI03/1C - Thematic Study with Source Evaluation - Germany, 1870-1990: United, Divided and Reunited",
+          "WHI03/1D - Thematic Study with Source Evaluation - Civil Rights and Race Relations in the USA, 1865-2009",
+          "WHI04/1A - International Study with Historical Interpretations - The Making of Modern Europe 1805 to 71 (Option 1A)",
+          "WHI04/1B - International Study with Historical Interpretations - The World in Crisis 1879 to 1945 (Option 1B)",
+          "WHI04/1C - International Study with Historical Interpretations - The World Divided: Superpower Relations 1943 to 90 (Option 1C)",
+          "WHI04/1D - International Study with Historical Interpretations - The Cold War and Hot War in Asia, 1945 to 90 (Option 1D)"
+        ],
+        "Information Technology (2018)": [
+          "WIT11/01 - Unit 1",
+          "WIT12/01 - Unit 2"
+        ],
+        "Mathematics": [
+          "WDM01/01 - Decision Mathematics D1",
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA01/01 - Core Mathematics C12",
+          "WMA02/01 - Core Mathematics C34",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I"
+        ],
+        "Psychology (2015)": [
+          "WPS01/01 - Social and cognitive psychology",
+          "WPS02/01 - Biological psychology, learning theories and development",
+          "WPS03/01 - Applications of Psychology",
+          "WPS04/01 - Clinical psychology and psychological skills"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA01/01 - Core Mathematics C12",
+          "WMA02/01 - Core Mathematics C34",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)"
+        ],
+        "Physics": [
+          "WPH01/01 - Physics on the Go",
+          "WPH02/01 - Physics at Work",
+          "WPH03/01 - Exploring Physics",
+          "WPH04/01 - Physics on the Move",
+          "WPH05/01 - Physics from Creation to Collapse",
+          "WPH06/01 - Experimental Physics"
+        ]
+      },
+      "October 2019": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology": [
+          "WBI04/01 - The Natural Environment and Species Survival",
+          "WBI05/01 - Energy, Exercise and Coordination",
+          "WBI06/01 - Practical Biology and Investigative Skills"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities"
+        ],
+        "Business Studies": [
+          "WBS03/01 - Strategic Business Decisions",
+          "WBS04/01 - Business in a Global Context"
+        ],
+        "Chemistry": [
+          "WCH04/01 - General Principles of Chemistry l  to  Rates, Equilibria and Further Organic Chemistry",
+          "WCH05/01 - General Principles of Chemistry ll  to  Transition Metals and Organic Nitrogen Chemistry",
+          "WCH06/01 - Chemistry Laboratory Skills ll Alternative"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I"
+        ],
+        "Economics": [
+          "WEC03/01 - Business Behaviour",
+          "WEC04/01 - Developments in the Global Economy"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy"
+        ],
+        "Further Mathematics": [
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Mathematics": [
+          "WMA01/01 - Core Mathematics C12",
+          "WMA02/01 - Core Mathematics C34",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics": [
+          "WPH04/01 - Physics on the Move",
+          "WPH05/01 - Physics from Creation to Collapse",
+          "WPH06/01 - Experimental Physics"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I"
+        ],
+        "Pure Mathematics": [
+          "WMA01/01 - Core Mathematics C12",
+          "WMA02/01 - Core Mathematics C34",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)"
+        ]
+      },
+      "January 2020": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour"
+        ],
+        "Further Mathematics": [
+          "WDM01/01 - Decision Mathematics D1",
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Mathematics": [
+          "WDM01/01 - Decision Mathematics D1",
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WMA01/01 - Core Mathematics C12",
+          "WMA02/01 - Core Mathematics C34",
+          "WMA02/01C - Core Mathematics C34",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WMA01/01 - Core Mathematics C12",
+          "WMA02/01 - Core Mathematics C34",
+          "WMA02/01C - Core Mathematics C34",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3"
+        ]
+      },
+      "October 2020": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology": [
+          "WBI04/01 - The Natural Environment and Species Survival",
+          "WBI05/01 - Energy, Exercise and Coordination",
+          "WBI06/01 - Practical Biology and Investigative Skills"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Business Studies": [
+          "WBS03/01 - Strategic Business Decisions",
+          "WBS04/01 - Business in a Global Context"
+        ],
+        "Chemistry": [
+          "WCH04/01 - General Principles of Chemistry l  to  Rates, Equilibria and Further Organic Chemistry",
+          "WCH05/01 - General Principles of Chemistry ll  to  Transition Metals and Organic Nitrogen Chemistry",
+          "WCH06/01 - Chemistry Laboratory Skills ll Alternative"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics": [
+          "WEC03/01 - Business Behaviour",
+          "WEC04/01 - Developments in the Global Economy"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WDM01/01 - Decision Mathematics D1",
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Mathematics": [
+          "WDM01/01 - Decision Mathematics D1",
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA01/01 - Core Mathematics C12",
+          "WMA02/01 - Core Mathematics C34",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics": [
+          "WPH04/01 - Physics on the Move",
+          "WPH05/01 - Physics from Creation to Collapse",
+          "WPH06/01 - Experimental Physics"
+        ],
+        "Physics (2018)": [
+          "WPH04/01 - Physics on the Move"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA01/01 - Core Mathematics C12",
+          "WMA02/01 - Core Mathematics C34",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure"
+        ]
+      },
+      "January 2021": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ]
+      },
+      "October 2021": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure"
+        ]
+      },
+      "January 2022": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure"
+        ]
+      },
+      "June 2022": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nand Cosmology",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathematics 4"
+        ]
+      },
+      "October 2022": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Mathematics": [
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nand Cosmology",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathematics 4"
+        ]
+      },
+      "January 2023": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nand Cosmology",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathematics 4"
+        ]
+      },
+      "June 2023": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nand Cosmology",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathematics 4"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ]
+      },
+      "October 2023": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Mathematics": [
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nand Cosmology",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathematics 4"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ]
+      },
+      "January 2024": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathematics 4",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nand Cosmology",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathematics 4"
+        ]
+      },
+      "June 2024": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH12/01R - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH13/01R - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA12/01R - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\n\n\n\nMathematics 4",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations\n\n\n\n\n\n\n\n\nand Cosmology",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA11/01R - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA12/01R - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\n\n\n\nMathematics 4"
+        ]
+      },
+      "October 2024": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Mathematics": [
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\nMathematics 4",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Pure Mathematics": [
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\n\n\n\n\nMathematics 4"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations\n\n\n\n\n\nand Cosmology",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ]
+      },
+      "January 2025": {
+        "Accounting (2015)": [
+          "WAC11/01 - The Accounting System and Costing",
+          "WAC12/01 - Corporate and Management Accounting"
+        ],
+        "Biology (2018)": [
+          "WBI11/01 - Molecules, Diet, Transport and Health",
+          "WBI12/01 - Cells, Development, Biodiversity and Conservation",
+          "WBI13/01 - Practical Skills in Biology I",
+          "WBI14/01 - Energy, Environment, Microbiology and Immunity",
+          "WBI15/01 - Unit 5: Respiration, Internal Environment, Coordination and Gene Technology (New)",
+          "WBI16/01 - Unit 6: Practical Skills in Biology II (New)"
+        ],
+        "Business (2018)": [
+          "WBS11/01 - Marketing and people",
+          "WBS12/01 - Managing business activities",
+          "WBS13/01 - Business decisions and strategy",
+          "WBS14/01 - Unit 4: Global business"
+        ],
+        "Chemistry (2018)": [
+          "WCH11/01 - Structure, Bonding and Introduction to Organic Chemistry",
+          "WCH12/01 - Energetics, Group Chemistry, Halogenoalkanes and Alcohols",
+          "WCH13/01 - Practical Skills in Chemistry I",
+          "WCH14/01 - Rates, Equilibria and Further Organic Chemistry",
+          "WCH15/01 - Unit 5: Transition Metals and Organic Nitrogen Chemistry",
+          "WCH16/01 - Unit 6: Practical Skills in Chemistry II"
+        ],
+        "Economics (2018)": [
+          "WEC11/01 - Markets in action",
+          "WEC12/01 - Macroeconomic performance and policy",
+          "WEC13/01 - Business behaviour",
+          "WEC14/01 - Unit 4: Developments in the global economy"
+        ],
+        "Further Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WME03/01 - Mechanics M3",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2",
+          "WST03/01 - Statistics S3"
+        ],
+        "Mathematics": [
+          "WDM11/01 - Decision Mathematics D1 (New)",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\nMathematics 4",
+          "WME01/01 - Mechanics M1",
+          "WME02/01 - Mechanics M2",
+          "WST01/01 - Statistics S1",
+          "WST02/01 - Statistics S2"
+        ],
+        "Physics (2018)": [
+          "WPH11/01 - Mechanics and Materials",
+          "WPH12/01 - Waves and Electricity",
+          "WPH13/01 - Practical Skills in Physics I",
+          "WPH14/01 - Further Mechanics, Fields and Particles",
+          "WPH15/01 - Unit 5: Thermodynamics, Radiation, Oscillations\n\nand Cosmology",
+          "WPH16/01 - Unit 6: Practical Skills in Physics II"
+        ],
+        "Pure Mathematics": [
+          "WFM01/01 - Further Pure Mathematics FP1",
+          "WFM02/01 - Further Pure Mathematics FP2",
+          "WFM03/01 - Further Pure Mathematics FP3",
+          "WMA11/01 - Pure Mathematics P1 (New)",
+          "WMA12/01 - Pure Mathematics P2 (New)",
+          "WMA13/01 - Pure Mathematics P3",
+          "WMA14/01 - P4: Pure\n\nMathematics 4"
+        ]
+      }
+    }
+  },
+  "failed": {
+    "International A Level": {
+      "October 2020": {
+        "Physics (2018)": [
+          "WPH05/01 - Physics from Creation to Collapse",
+          "WPH06/01 - Experimental Physics"
+        ]
+      }
+    }
+  },
+  "lastUpdate": "2025-05-04T15:41:11.540Z",
+  "stats": {
+    "totalSessions": 16,
+    "totalSubjects": 9,
+    "totalUnits": 55,
+    "completedUnits": 914,
+    "failedUnits": 14,
+    "completedSessions": 16
+  },
+  "completedSessions": {
+    "International A Level": [
+      "June 2019",
+      "October 2019",
+      "January 2020",
+      "October 2020",
+      "October 2021",
+      "January 2022",
+      "June 2022",
+      "October 2022",
+      "January 2023",
+      "January 2024",
+      "June 2024",
+      "January 2025",
+      "June 2023",
+      "October 2023",
+      "October 2024",
+      "January 2021"
+    ]
+  }
+}
